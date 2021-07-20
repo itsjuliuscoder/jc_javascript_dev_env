@@ -4,21 +4,21 @@ This is a simple javascript development/starter kits that gets you up and runnin
 
 ## Table of Contents
 
-1. [Introduction](##introduction)
-2. [Core Features](##core-features)
-3. [Getting Started](##getting-started)
+1. [Introduction](#introduction)
+2. [Core Features](#core-features)
+3. [Getting Started](#getting-started)
 
 
-## Introduction
+# Introduction
 Javascript is arguable the world most purposeful programming language used to build powerful application across Web, Mobile and the Desktop Platform. This JS starter's kit is used to get anyone started into building powerful web applications with Javascript.
 
-## CORE FEATURES INCLUDE
+# CORE FEATURES INCLUDE
 - [Transpiled by Babel](https://babeljs.io/)
 - [Bundled by Webpack](https://webpack.js.org/)
 - [Linted by Eslint](https://eslint.org/)
 - [Testing setup with Mocha](https://mochajs.org/)
 
-## Getting Started
+# Getting Started
 
 Clone the repository: 
 
